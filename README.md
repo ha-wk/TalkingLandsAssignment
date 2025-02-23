@@ -1,5 +1,5 @@
 # Spatial Data API
-
+Please find below steps to make it run and test with any inputs :-
 ## Overview
 This is a FastAPI-based **Spatial Data API** that allows users to store and retrieve **points (latitude & longitude)** and **polygons (spatial regions)** using **PostgreSQL with PostGIS**. The API enables spatial queries and geometric operations efficiently.
 
@@ -8,7 +8,6 @@ This is a FastAPI-based **Spatial Data API** that allows users to store and retr
 ✅ Store **polygon boundaries** (spatial regions).  
 ✅ Retrieve and query spatial data using **PostGIS**.  
 ✅ Integrated with **FastAPI** for high-performance API handling.  
-✅ Fully tested using **pytest**.  
 
 ## Prerequisites
 Ensure you have the following installed:
