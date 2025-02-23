@@ -122,9 +122,3 @@ def test_add_polygon():
     assert response.json()["name"] == "Test Polygon"
 ```
 
-## 🎯 Expected Functionality
-✅ Users can **store** and **retrieve** points and polygons.  
-✅ **FastAPI** provides high-speed request handling.  
-✅ **PostGIS** enables **spatial queries & operations**.  
-✅ The project follows **best coding practices & testing**.  
-
